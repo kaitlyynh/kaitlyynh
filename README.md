@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaitlyynh, currently studying Computer Science at university.
+- 👋 Hi, I’m @kaitlyynh, currently studying Computer Science at NYU Tandon.
 - 👀 I’m interested in Software Development, Web Design, and Data Analytics.
 - 🌱 I’m currently learning C++, SQL, Flask and other software.
 - 💞️ I’m looking to collaborate on ...
