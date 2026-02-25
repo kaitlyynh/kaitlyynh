@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaitlyynh, currently studying Computer Science at NYU Tandon.
+- 👋 Hi, I’m @kaitlyynh. I studied Computer Science and Engineering at NYU Tandon. I am currently working as a Software Engineer!
 - 👀 I’m interested in Software Development, Backend Design, and Data Analytics.
 - 🌱 I’m currently learning Salesforce, SQL, Flask and other software.
 
